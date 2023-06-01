@@ -1,4 +1,4 @@
-# admin-dashboard Frondent Odin-Project
+# admin-dashboard  Odin-Project
 - A simple admin panel page with html code, css and script in html (javascript)
 - HTML(javascript)
 - CSS
